@@ -1,9 +1,8 @@
 ## 👋 Hi, I’m Disha Saini
-🚀 AI/ML Enthusiast | B.Tech CSE (AI & ML) | Developer in Progress
-
-🌟 About Me
-🎓 Second-year B.Tech student specializing in AI & ML
-🤖 Exploring Agentic AI, Generative AI, and Reinforcement Learning
+AI/ML Enthusiast | B.Tech CSE (AI & ML) | Developing & Researching
+ About Me
+ Second-year B.Tech student specializing in AI & ML
+ Exploring Agentic AI, Generative AI, and Reinforcement Learning
 
 🛠️ Tech Stack
 
