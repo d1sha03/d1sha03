@@ -1,11 +1,12 @@
-## 👋 Hi, I’m Disha Saini
-AI/ML Enthusiast | B.Tech CSE (AI & ML) | Developing & Researching
- About Me
- Second-year B.Tech student specializing in AI & ML
- Exploring Agentic AI, Generative AI, and Reinforcement Learning
+AI/ML undergraduate focused on building practical machine learning systems with an interest in computer vision and audio signal processing.
 
-🛠️ Tech Stack
+Worked on real-time crowd classification using CNNs (presented at an IEEE conference)
+Built ML models for image classification and financial risk prediction with explainability
+Currently developing a hybrid audio source separation system combining custom and pretrained models
 
-Languages: C, Python, C++
-Tools: Git, GitHub, VS Code, Docker
-Skills: Data Structures & Algorithms, OOP, ML 
+Interests:
+Computer Vision · Audio & Signal Processing · Multimodal AI · Applied ML Systems
+
+Tech:
+Python · PyTorch/TensorFlow · NumPy · Pandas · Scikit-learn · Git
+
